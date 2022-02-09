@@ -1,0 +1,34 @@
+C:\Users\EL CULO\documents\visual studio 2010\Projects\tiltsorter\tiltsorter\bin\Debug\tiltsorter.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\tiltsorter\tiltsorter\bin\Debug\tiltsorter.pdb
+C:\Users\EL CULO\documents\visual studio 2010\Projects\tiltsorter\tiltsorter\obj\x86\Debug\tiltsorter.Form1.resources
+C:\Users\EL CULO\documents\visual studio 2010\Projects\tiltsorter\tiltsorter\obj\x86\Debug\tiltsorter.Properties.Resources.resources
+C:\Users\EL CULO\documents\visual studio 2010\Projects\tiltsorter\tiltsorter\obj\x86\Debug\tiltsorter.csproj.GenerateResource.Cache
+C:\Users\EL CULO\documents\visual studio 2010\Projects\tiltsorter\tiltsorter\obj\x86\Debug\tiltsorter.exe
+C:\Users\EL CULO\documents\visual studio 2010\Projects\tiltsorter\tiltsorter\obj\x86\Debug\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter\tiltsorter\obj\x86\Debug\tiltsorter.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Debug\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Debug\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\bin\Debug\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\bin\Debug\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Debug\tiltsorter.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Debug\tiltsorter.Form1.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Debug\tiltsorter.Properties.Resources.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Debug\tiltsorter.csproj.GenerateResource.Cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Debug\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Debug\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\bin\Debug\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\bin\Debug\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Debug\tiltsorter.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Debug\tiltsorter.Form1.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Debug\tiltsorter.Properties.Resources.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Debug\tiltsorter.csproj.GenerateResource.Cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.pdb
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.exe
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.pdb
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\bin\Debug\tiltsorter.exe
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\bin\Debug\tiltsorter.pdb
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.csprojResolveAssemblyReference.cache
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.Form1.resources
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.Properties.Resources.resources
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Debug\tiltsorter.csproj.GenerateResource.Cache

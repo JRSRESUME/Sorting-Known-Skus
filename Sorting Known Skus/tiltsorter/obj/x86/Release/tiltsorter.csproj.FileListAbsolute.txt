@@ -1,0 +1,30 @@
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\bin\Release\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\bin\Release\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Release\tiltsorter.Form1.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Release\tiltsorter.Properties.Resources.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Release\tiltsorter.csproj.GenerateResource.Cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Release\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 2\tiltsorter\obj\x86\Release\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\bin\Release\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\bin\Release\tiltsorter.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Release\tiltsorter.Form1.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Release\tiltsorter.Properties.Resources.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Release\tiltsorter.csproj.GenerateResource.Cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Release\tiltsorter.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\tiltsorter 3\tiltsorter\obj\x86\Release\tiltsorter.pdb
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\bin\Release\tiltsorter.exe
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\bin\Release\tiltsorter.pdb
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Release\tiltsorter.Form1.resources
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Release\tiltsorter.Properties.Resources.resources
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Release\tiltsorter.csproj.GenerateResource.Cache
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Release\tiltsorter.exe
+C:\Users\jigglypuff\Documents\Visual Studio 2010\Projects\Sorting Known Skus\tiltsorter\obj\x86\Release\tiltsorter.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\bin\Release\tiltsorter.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\bin\Release\tiltsorter.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\obj\x86\Release\tiltsorter.csprojAssemblyReference.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\obj\x86\Release\tiltsorter.Form1.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\obj\x86\Release\tiltsorter.Properties.Resources.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\obj\x86\Release\tiltsorter.csproj.GenerateResource.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\obj\x86\Release\tiltsorter.csproj.CoreCompileInputs.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\obj\x86\Release\tiltsorter.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\Sorting Known Skus!\tiltsorter\obj\x86\Release\tiltsorter.pdb
